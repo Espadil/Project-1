@@ -40,8 +40,8 @@ def general_info_user(n_parameter, a_parameter, ph_parameter, e_parameter, i_par
         print(i_parameter)
 
 
-print('Приложение MyProfile')
-print('Сохраняй информацию о себе и выводи ее в разных форматах')
+#print('Приложение MyProfile')
+#print('Сохраняй информацию о себе и выводи ее в разных форматах')
 
 while True:
     # main menu
